@@ -1,4 +1,4 @@
-module test2
+module github.com/nichigovsky/urlshortener
 
 go 1.24.0
 
